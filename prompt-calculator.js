@@ -3,7 +3,7 @@ let welcome = confirm(
 );
 
 if (welcome === false) {
-  alert("Thanks for stopping by! Have a great day! :)");
+  alert("Thanks for stopping by! Have a great day!😊");
 }
 
 if (welcome === true) {
